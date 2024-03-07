@@ -1,0 +1,393 @@
+[
+    {
+        "titulo": "The 100",
+        "tipo": "serie",
+        "capa": "movies/cover/100.jpg",
+        "logo": "movies/cover/logo/100.png",
+        "thumb": "movies/thumb/100.jpg",
+        "descricao": "Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.",
+        "generos": [
+            "Ação",
+            "Drama",
+            "Pós-apocalíptico"
+        ],
+        "elenco": [
+            "Eliza Taylor",
+            "Bob Morley",
+            "Paige Turco"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "#Alive",
+        "tipo": "filme",
+        "capa": "movies/cover/alive.jpg",
+        "logo": "movies/cover/logo/alive.png",
+        "thumb": "movies/thumb/alive.jpg",
+        "descricao": "Enquanto um vírus terrível devasta uma cidade coreana, Joon-woo tenta se manter seguro trancando-se em seu apartamento. No momento em que perde as esperanças, ele descobre outro sobrevivente.",
+        "generos": [
+            "Terror",
+            "Ação",
+            "Pós-apocalíptico"
+        ],
+        "elenco": [
+            "Yoo Ah-in",
+            "Park Shin-hye",
+            "Jeon Bae-soo"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Altered Carbon",
+        "tipo": "serie",
+        "capa": "movies/cover/altered-carbon.jpg",
+        "logo": "movies/cover/logo/altered-carbon.png",
+        "thumb": "movies/thumb/altered-carbon.jpg",
+        "descricao": "Situado num futuro onde a consciência é digitalizada e armazenada, um prisioneiro regressa à vida num novo corpo e deve resolver um assassinato alucinante para ganhar a sua liberdade.",
+        "generos": [
+            "Cyberpunk",
+            "Mistério",
+            "Ficção Policial"
+        ],
+        "elenco": [
+            "Joel Kinnaman",
+            "Martha Higareda",
+            "Anthony Mackie"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Arcane",
+        "tipo": "serie",
+        "capa": "movies/cover/arcane.jpg",
+        "logo": "movies/cover/logo/arcane.png",
+        "thumb": "movies/thumb/arcane.jpg",
+        "descricao": "Duas irmãs. Duas cidades. Uma descoberta que mudará o mundo para sempre. Nas cidades de Piltover e Zaun, a tensão aumenta à medida que inventores, arruaceiros, políticos e senhores do crime ficam cada vez mais fartos das restrições de uma sociedade devastada.",
+        "generos": [
+            "Steampunk",
+            "Aventura",
+            "Animação"
+        ],
+        "elenco": [
+            "Ella Purnell (Jinx)",
+            "Hailee Steinfeld (Vi)",
+            "Jason Spisak (Silco)"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Breaking Bad",
+        "tipo": "serie",
+        "capa": "movies/cover/breaking-bad.jpg",
+        "logo": "movies/cover/logo/breaking-bad.png",
+        "thumb": "movies/thumb/breaking-bad.jpg",
+        "descricao": "Walter White, professor de química, descobre que tem câncer e decide entrar no ramo de produção de metanfetamina para pagar suas dívidas médicas. Suas prioridades começam a mudar quando ele faz parceria com Jesse.",
+        "generos": [
+            "Crime",
+            "Ação",
+            "Suspense"
+        ],
+        "elenco": [
+            "Bryan Cranston",
+            "Aaron Paul",
+            "Anna Gunn"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "O Diabo de Cada Dia",
+        "tipo": "filme",
+        "capa": "movies/cover/diabo.jpg",
+        "logo": "movies/cover/logo/diabo.png",
+        "thumb": "movies/thumb/diabo.jpg",
+        "descricao": "Pregadores Profanos. Autoridades Corruptas. Amantes Assassinos. Numa cidade cheia de pecadores, um jovem busca justiça.",
+        "generos": [
+            "Drama",
+            "Ação",
+            "Ficção Policial"
+        ],
+        "elenco": [
+            "Tom Holland",
+            "Harry Melling",
+            "Riley Keough"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Django Livre",
+        "tipo": "filme",
+        "capa": "movies/cover/django.jpg",
+        "logo": "movies/cover/logo/django.png",
+        "thumb": "movies/thumb/django.jpg",
+        "descricao": "Django, um escravo africano, é libertado por um caçador de recompensas alemão e torna-se seu aprendiz. Juntos, eles tentam resgatar sua esposa, que foi escravizada por um encantador mas cruel proprietário de uma plantação.",
+        "generos": [
+            "Faroeste",
+            "Ação",
+            "Romance"
+        ],
+        "elenco": [
+            "Jamie Foxx",
+            "Quentin Tarantino",
+            "Samuel L. Jackson"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Gotham",
+        "tipo": "serie",
+        "capa": "movies/cover/gotham.jpg",
+        "logo": "movies/cover/logo/gotham.png",
+        "thumb": "movies/thumb/gotham.jpg",
+        "descricao": "O detetive James Gordon é um novo recruta designado para investigar o assassinato de Thomas e Martha Wayne. O caso o apresenta ao filho do casal assassinado e futuro cruzado, Bruce.",
+        "generos": [
+            "Ação",
+            "Drama",
+            "Super-herói"
+        ],
+        "elenco": [
+            "David Mazouz",
+            "Ben McKenzie",
+            "Erin Richards"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "O Impossível",
+        "tipo": "filme",
+        "capa": "movies/cover/impossivel.jpg",
+        "logo": "movies/cover/logo/impossivel.png",
+        "thumb": "movies/thumb/impossivel.jpg",
+        "descricao": "Em dezembro de 2004, Maria, Henry e seus três filhos passaram férias na Tailândia durante o Natal. No entanto, um terrível tsunami logo os atinge, separando a família amorosa, causando medo e angústia.",
+        "generos": [
+            "Sobrevivência",
+            "Suspense",
+            "História"
+        ],
+        "elenco": [
+            "Naomi Watts",
+            "Tom Holland",
+            "Ewan McGregor"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Lucifer",
+        "tipo": "serie",
+        "capa": "movies/cover/lucifer.jpg",
+        "logo": "movies/cover/logo/lucifer.png",
+        "thumb": "movies/thumb/lucifer.jpg",
+        "descricao": "Entediado de ser o Senhor do Inferno, o diabo se muda para Los Angeles, onde abre uma boate e estabelece uma ligação com um detetive de homicídios.",
+        "generos": [
+            "Comédia",
+            "Ação",
+            "Mistério"
+        ],
+        "elenco": [
+            "Tom Ellis",
+            "Lauren German",
+            "Kevin Alejandro"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Um Maluco no Pedaço",
+        "tipo": "serie",
+        "capa": "movies/cover/maluco.jpg",
+        "logo": "movies/cover/logo/maluco.png",
+        "thumb": "movies/thumb/maluco.jpg",
+        "descricao": "As coisas tomam um rumo hilário quando um adolescente do centro da cidade da Filadélfia é enviado para morar com seus tios ricos em sua mansão em Bel-Air.",
+        "generos": [
+            "Comédia",
+            "Adolescente",
+            "Sitcom"
+        ],
+        "elenco": [
+            "Will Smith",
+            "Alfonso Ribeiro",
+            "James Avery"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Rainha do Sul",
+        "tipo": "serie",
+        "capa": "movies/cover/rainha-do-sul.jpg",
+        "logo": "movies/cover/logo/rainha-do-sul.png",
+        "thumb": "movies/thumb/rainha-do-sul.jpg",
+        "descricao": "Teresa foge para os Estados Unidos depois que seu namorado traficante de drogas é assassinado por um chefe de cartel. Lá, ela decide se tornar uma traficante de drogas e jura vingar a morte de seu amante.",
+        "generos": [
+            "Crime",
+            "Ação",
+            "Suspense"
+        ],
+        "elenco": [
+            "Alice Braga",
+            "Peter Gadiot",
+            "Veronica Falcón"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Spartacus",
+        "tipo": "serie",
+        "capa": "movies/cover/spartacus.jpg",
+        "logo": "movies/cover/logo/spartacus.png",
+        "thumb": "movies/thumb/spartacus.jpg",
+        "descricao": "Spartacus, um bravo guerreiro trácio, torna-se um gladiador que lidera uma revolta contra os brutais proprietários de escravos. Ele também deve encontrar sua esposa, Sura, que foi condenada à escravidão.",
+        "generos": [
+            "Drama Histórico",
+            "Ação",
+            "Guerra"
+        ],
+        "elenco": [
+            "Andy Whitfield",
+            "Viva Bianca",
+            "Nick E. Tarabay"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "The Witcher",
+        "tipo": "serie",
+        "capa": "movies/cover/the-witcher.jpg",
+        "logo": "movies/cover/logo/the-witcher.png",
+        "thumb": "movies/thumb/the-witcher.jpg",
+        "descricao": "O bruxo Geralt, um caçador de monstros mutante, luta para encontrar seu lugar em um mundo onde as pessoas muitas vezes se mostram mais perversas que as feras.",
+        "generos": [
+            "Ação",
+            "Fantasia",
+            "Mistério"
+        ],
+        "elenco": [
+            "Henry Cavill",
+            "Freya Allan",
+            "Anya Chalotra"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "Tropa de Elite",
+        "tipo": "filme",
+        "capa": "movies/cover/tropa.jpg",
+        "logo": "movies/cover/logo/tropa.png",
+        "thumb": "movies/thumb/tropa.jpg",
+        "descricao": "O capitão Nascimento recebe uma tarefa a ser cumprida antes da chegada do Papa ao Rio de Janeiro. Mas com o capitão planejando deixar o emprego, ele conseguirá encontrar um substituto adequado?",
+        "generos": [
+            "Ação",
+            "Guerra",
+            "Suspense"
+        ],
+        "elenco": [
+            "Wagner Moura",
+            "André Ramiro",
+            "Caio Junqueira"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "O Último Homem",
+        "tipo": "filme",
+        "capa": "movies/cover/ultimo-homem.jpg",
+        "logo": "movies/cover/logo/ultimo-homem.png",
+        "thumb": "movies/thumb/ultimo-homem.jpg",
+        "descricao": "Depois que Desmond Doss quase mata seu irmão mais novo, ele se recusa a manusear armas ou entrar na guerra. No entanto, após o ataque japonês a Pearl Harbor, ele se junta ao exército americano como médico combatente.",
+        "generos": [
+            "Guerra",
+            "Horror",
+            "Drama"
+        ],
+        "elenco": [
+            "Andrew Garfield",
+            "Luke Bracey",
+            "Vince Vaughn"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    },
+    {
+        "titulo": "The Umbrella Academy",
+        "tipo": "serie",
+        "capa": "movies/cover/umbrella.jpg",
+        "logo": "movies/cover/logo/umbrella.png",
+        "thumb": "movies/thumb/umbrella.jpg",
+        "descricao": "Num dia de 1989, 43 bebés nasceram inexplicavelmente, de mulheres aleatórias e sem ligação entre si, que não apresentavam sinais de gravidez no dia anterior. Sete são adotados pelo industrial bilionário Sir Reginald Hargreeves, que cria a Umbrella Academy e prepara seus “filhos” para salvar o mundo.",
+        "generos": [
+            "Drama",
+            "Ação",
+            "Super-herói"
+        ],
+        "elenco": [
+            "Aidan Gallagher",
+            "Elliot Page",
+            "Tom Hopper"
+        ],
+        "cenas_momentos": [
+            "Cena 1",
+            "Cena 2",
+            "Cena 3"
+        ]
+    }
+]

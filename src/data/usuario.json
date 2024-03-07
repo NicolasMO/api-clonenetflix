@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Nicolas Martins",
+        "email": "nicolas@teste.com",
+        "senha": "123"
+    },
+    {
+        "nome": "Helder Filho",
+        "email": "helder@teste.com",
+        "senha": "123"
+    },
+    {
+        "nome": "admin",
+        "email": "admin@teste.com",
+        "senha": "admin"
+    },
+    {
+        "nome": "Clone Netflix",
+        "email": "clone@teste.com",
+        "senha": "clonenetflix"
+    }
+]
